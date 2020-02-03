@@ -6,4 +6,6 @@ This is a simple web project
 
 ## Purpose
 
+Provide simple demos
+
 ## Deployment

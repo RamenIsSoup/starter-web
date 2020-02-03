@@ -9,3 +9,6 @@ This is a simple web project
 Provide simple demos
 
 ## Deployment
+
+asfagfageijea
+ETO YUNG BINAGO PRE

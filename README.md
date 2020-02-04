@@ -12,3 +12,6 @@ Provide simple demos
 
 asfagfageijea
 ETO YUNG BINAGO PRE
+
+
+COPYRIGHT
